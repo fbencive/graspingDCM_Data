@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UserName]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="RowMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="73730"
+               Dimensionality="1"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               Intent="NIFTI_INTENT_SHAPE">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[AnatomicalStructureSecondary]]></Name>
+         <Value><![CDATA[MidThickness]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[DataspaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[01-Jan-1900]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[GeometricType]]></Name>
+         <Value><![CDATA[Anatomical]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[AIP_avg25.LH]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SubjectID]]></Name>
+         <Value><![CDATA[*]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SurfaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{f8abd41a-8db5-4655-beb2-80898b59fda0}]]></Value>
+      </MD>
+   </MetaData>
+      <CoordinateSystemTransformMatrix>
+         <DataSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></DataSpace>
+         <TransformedSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></TransformedSpace>
+         <MatrixData>1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 </MatrixData>
+      </CoordinateSystemTransformMatrix>
+      <Data>eJzt3S1wJEUYBuAzmDMYDAZE1Bk0JkkV5gzmFCYGjUah0dFg158+fTqn0fizePbbybvT0zsbqqiDmdk8T1VXsvmp2jXv1/1NT8+LFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXIqXf1xdL/0eAPj/Vf63NSCv1QWAy9dmfj+Wfm8A/LfGzN+pAQDPyDT/1QCAS3fa+9+pAQDPQJvtbf7fv//rpA4s/V4B+HT6+X3lfjvUAIDL1Pd8xty/ujmtA/If4BK013xP5/1XN/M1YKcGAGxcu98zGf/h4ft95v+8z/7d4Wu9bmuBXhDA9vX9niHjh+yv8eru/vA6daBfCyz9/gH4d8Z9PkP2V8ZX5n94eLh5+/rPm49v3h1rQY2sBVwXBtimfp9n2/Op3H/31We3r+4+v62v+99X3h9qQo0x/6tmyH+ALUm/v5nDH+b9Nd+vUbn/+29f3u5/PqkDWROkF9TfI7b05wLgae313rbnX9me+X/l/8c3387WgKEfpA8EsEXjtdzh+m7m/5XvlfOV/7988c1h9DVguC5wNbsOWPpzATAvOd32/TOyBkj+Z/5fI7WgakDfB3pcR8h/gJWanue2u85+nxrD/p7hGm+b/8n9GqkHqQHDPQLuDwZYu/6M52E/527S+2/7/3f3352MqgP1u/SBpj0g9wQArFE7/6/Mbvf8DFl+2N957PlU3l+//OEw9jl/eJ01Qd8Hkv8A69T3frLvJ7mfnk/2fVbOt/n/9vWPkzVArgUPNWN3rAFLf04ApvqzHtL7n+v7pNdfc/5kf7sGqFF/19aA9IGW/pwAjPqz/TP/T+8/+Z8a0Ob/fo1w+/WvPx3XAekBZa1Qf581wOM5EmoAwMr05z5kz2fO+2nPfkj/p+b+VQOS/3M1oNYAzflA8h9gZWae8X689yt7P1MD2uu/lf/pAc3lf9WL+r/kvxoAsD79M91zLSDXgfs1QI3kf2pA5X/Vhzb/swZwHwDAOp3m//T8t5z/0OZ/5X5dAzhXA9pzIdwLBrBO/Xmd41lw47WAyvLsBer3ANXX+lnuA+jPBRrOkhjPhFj68wIw6Of/zc+Oe0LbfUBt/if7M/dvz4WrMT4v5viMAPkPsCIz1wBm+0CV7dkLmmu/6Qn1vZ/M/9MDciYcwDqdqwE5E6j6QNkHlBqQewJyBlDb+6m/z/x/PBPIs2EA1mi+BlydPAsyzwBoa0F9P57/8zDJ/+H/PR8SYCvaNUBleHI914Jrvl8j3+fc0PY58dU/Gp8pYA0AsCXts2GypydrgXZkrj83PBsMYHvaM6JzXtzjs14mY9grOmR9/yyx6bPB3A8AsAX9NeG2BuT+gOl+/7EGZO/n9NnwzoUG2IJze0Mzx895Qdnrk9wf9/3vTsbSnwmAf/bU3tC+zz/UgqfyX+8fYKvaPlDTCzquCcbXu5O+j/wH2LauFzTpC7X5fzrkP8ClmL8+MJ/78h/gcpw/P2g+++U/wGU5c37E2bH0+wXg0+mzXf4DPG+yHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4NTf2mmWxQ==</Data>
+   </DataArray>
+</GIFTI>

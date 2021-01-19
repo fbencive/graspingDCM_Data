@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UserName]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="RowMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="73730"
+               Dimensionality="1"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               Intent="NIFTI_INTENT_SHAPE">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[AnatomicalStructureSecondary]]></Name>
+         <Value><![CDATA[MidThickness]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[DataspaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[01-Jan-1900]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[missInfo]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[GeometricType]]></Name>
+         <Value><![CDATA[Anatomical]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[SMA_avg25.LH]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SubjectID]]></Name>
+         <Value><![CDATA[*]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SurfaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{76d01cdd-7c03-47b3-9595-08772acf7935}]]></Value>
+      </MD>
+   </MetaData>
+      <CoordinateSystemTransformMatrix>
+         <DataSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></DataSpace>
+         <TransformedSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></TransformedSpace>
+         <MatrixData>1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 </MatrixData>
+      </CoordinateSystemTransformMatrix>
+      <Data>eJzt3S1zFEEQBmAMBoPBYDBRMWgMpAqDiYnP34jiR5wGex4dHZ1oND4WT+aOvu2ZnQWV2t2756maSu4jVTnzbl9v7+yLFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx+HVz7OPZc39fwDw/CLz85r7fwLgefWy33EA4Hj9L/dlP8Bxkv8Ap0n2A5wetT/Acevl+D7ft7u1ufv993fZD7BmQ4Zvu3kemb/P/bNPw+/btOQ/wJrkuj5neVmR8Tn75T/A+uVsz3me6/zI/LzG+S/7AZYs93Zy7uc872X+w/3lYQ3PD7X/3J8LgGn1udrtRP5P5359DND3AViLqbp/ur7fP7+5u9mteF3fH2A9enV/L+NjTT2/X3Xf3+wnwHLl7J+q79v87z0f3w968/9zf0YABs1c/6ivf369mcj/7e61/HruD01d/+VYADC/tufT9vlLprf5X3L/8eq2yv9Y/fwfXzMg/wHm06v729wvOR/5H48f7u8PK44F8Z76/PB09st/gHn06v6o76OWL7meV8n6yP2nv9mtH19+7R63+d+b/5H/APPqzfnkc7yR/SXb8yp5f/vu5UVZ59evL+L5clyIXtBwXrg//yP7AebT26Mz931ynR8ZXzL/+7e3F09/u/tZHkftH98NyorZT/kPsDzj/D+rZjlz7peav9T6X9+8P6yS/7n3k7M/ej9mfwCWp963sz7nG9kf+V6yv9T8j1cfutmf54DGs//u/wKwFG3vv+375L5/6fGU7L/efD7kf3mc53/yud/o/Q+zP/IfYAmmZv1z9ue+/z7rL6vsL98HSv0f743Zz9z3SXtHyH2ABWjn/fOcf/Tw83xnqfuj51N+luyP/M+9/9zzaXv/c39mgFP3r+yP/M/nfUutHzV/zPyU7C89ocj//XeA3rVech9gCers346u9Wr7/iXfY9Yzej6R/XX/p3efF9kPsBQx69Ob98l9/zz3E9f3xjVfkf8x99+f83ePL4AlGd+Xvd7Lrb3OKx7Hz+j5xIqev+wHWK629m/3cN7P7tTznHEuOM/45DXMeW7lP8BCTe3tnHv/OeMj+9t9Pdt9/tuev74/wDK11/vmTI/jQPSD8n5uOf/d1wtgvYYZ/ZvDvb163wvGe/mP53zkP8B6tPf2jVq+vdd7u4dPe02X7AdYl/oev/X528j4/fvqfHd+F2C96nt9je/NW79XXQ9wLOprgM1tApyK8T4Q9msAOBXO2QIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa/MHuD/MiA==</Data>
+   </DataArray>
+</GIFTI>
